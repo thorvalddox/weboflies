@@ -1,0 +1,1 @@
+cypher-Shell.bat --file setup.cql -u neo4j -p 12345678 > output.txt
